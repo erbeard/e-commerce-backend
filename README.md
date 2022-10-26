@@ -34,7 +34,7 @@
   ## Usage
   Start the server by running "npm start". Leverage Insomnia to navigate the API routes. 
 
-[Link to Demo](https://youtu.be/7xqe20-4yT0)
+[Link to Demo](https://youtu.be/Yta210QF11Q)
   
   ## How to Contribute
   [Contributor Covenant](https://www.contributor-covenant.org/)  
